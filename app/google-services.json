@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "464422640130",
+    "firebase_url": "https://event-f519b-default-rtdb.firebaseio.com",
+    "project_id": "event-f519b",
+    "storage_bucket": "event-f519b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464422640130:android:92fedde885b4cb1bfa651b",
+        "android_client_info": {
+          "package_name": "com.java.eventregistrationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5qafLRcI95JHUIjghO4yOBS4MFJM8YLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
